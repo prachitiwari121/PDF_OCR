@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+requests
+transformers
+langchain
+langchain-google-genai==0.0.3
+faiss-cpu
+google-generativeai>=0.3.1,<0.4.0
